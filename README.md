@@ -26,9 +26,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()  
-<a href="https://github.com/leocanto">
-     <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocanto&theme=tokyonight&hide_border=false&&layout=compact"/>
-</a>
+
 
 #### <samp> Databases </samp>
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -43,4 +41,6 @@
 [![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]()
 
  
- 
+<a href="https://github.com/leocanto">
+     <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocanto&theme=tokyonight&hide_border=false&&layout=compact"/>
+</a>
