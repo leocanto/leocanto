@@ -2,9 +2,9 @@
 
 ### <samp> I'm Leonardo Canto, 22 years old </samp>
 
-- I'm a student of Software Engineer at PUCRS.
+- Studying Software Engineer at PUCRS.
 - My current interest is FullStack web development.
-- Porto Alegre-RS, Brazil
+- I'm from Porto Alegre-RS, Brazil
 ## About me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-machado1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leonardocanto/)
