@@ -40,7 +40,3 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 [![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]()
 
- 
-<a href="https://github.com/leocanto">
-     <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocanto&theme=tokyonight&hide_border=false&&layout=compact"/>
-</a>
