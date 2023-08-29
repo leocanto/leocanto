@@ -6,7 +6,7 @@
 
 
 - Studying Software Engineer at PUCRS.
-- My current interest is Backend development.
+- My current interest is FullStack development.
 - I'm from Porto Alegre-RS, Brazil
 
 
